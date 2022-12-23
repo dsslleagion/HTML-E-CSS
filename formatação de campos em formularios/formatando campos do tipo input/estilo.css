@@ -1,0 +1,25 @@
+/* .texto_input{
+    background: blue;
+    color:white;
+    text-transform: uppercase;
+
+} */
+
+#formulario input[type="texto"]{
+    background: darkgreen;
+    color:green white;
+    height: 45px;
+    line-height: 45px;
+    text-transform: uppercase;
+    font-size:18px;
+    width: 300px;
+    border:none;
+    border-radius: 8px;
+    text-indent: 10px;
+    outline: none;
+
+}
+#formulario input[type="texto"]:focus{
+   background:yellow;
+   color:black; 
+}

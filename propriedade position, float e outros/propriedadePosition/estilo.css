@@ -1,0 +1,14 @@
+
+
+#conteiner {
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    color: aliceblue;
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    right:0;
+    bottom:0;
+}
+/* position:fixed,relative,absolute */

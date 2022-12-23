@@ -1,0 +1,13 @@
+.textonaoflutua{
+    clear: both;
+}
+
+#conteiner {
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    color: aliceblue;
+    float: left;
+    margin-right: 15px;
+}
+/* position:fixed,relative,absolute */

@@ -1,0 +1,36 @@
+/* Tipos seletores
+* = seletor universal*/
+*{
+    color:brown !important;
+    /* font: 10px;
+    margin:10px; */
+
+    
+}
+/* Seletor TAG/elemento */
+/* p, div, h1, h2, h3, ul, ol, li, a, table, form, iframe, body{
+
+} */
+
+h1{
+    font-size: 16px;
+    color: aqua;
+}
+
+
+/* seletor classe precedida do . */
+.texto{
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkgreen;
+
+
+}
+
+/* seletor ID precedida de # */
+#texto2{
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}

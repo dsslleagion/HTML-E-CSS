@@ -1,0 +1,14 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 15px;
+    text-shadow:black solid 8px 8px 8px;
+    text-transform: uppercase;
+    
+}
+
+/* font-size: 8em; em ("responsivo")  px não é */

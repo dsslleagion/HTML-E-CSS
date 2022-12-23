@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+#topo {
+    width: 900px;
+    height: 200px;
+    background-color: red;
+}
+#topo h1 a {
+    color: aliceblue;
+    text-decoration: none;
+}
